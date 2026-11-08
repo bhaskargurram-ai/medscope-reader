@@ -1,0 +1,485 @@
+{
+ "pack": "9a0b77e4e7e2",
+ "items": [
+  {
+   "id": "i000",
+   "image": "images/i000.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i001",
+   "image": "images/i001.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i002",
+   "image": "images/i002.png",
+   "question": "Is there a nodule in this chest X-ray?"
+  },
+  {
+   "id": "i003",
+   "image": "images/i003.png",
+   "question": "Is there an abnormality in this brain MRI slice?"
+  },
+  {
+   "id": "i004",
+   "image": "images/i004.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i005",
+   "image": "images/i005.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i006",
+   "image": "images/i006.png",
+   "question": "Is there an abnormality in this brain MRI slice?"
+  },
+  {
+   "id": "i007",
+   "image": "images/i007.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i008",
+   "image": "images/i008.png",
+   "question": "Is there a mass in this chest X-ray?"
+  },
+  {
+   "id": "i009",
+   "image": "images/i009.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i010",
+   "image": "images/i010.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i011",
+   "image": "images/i011.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i012",
+   "image": "images/i012.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i013",
+   "image": "images/i013.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i014",
+   "image": "images/i014.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i015",
+   "image": "images/i015.png",
+   "question": "Is there fibrosis in this chest X-ray?"
+  },
+  {
+   "id": "i016",
+   "image": "images/i016.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i017",
+   "image": "images/i017.png",
+   "question": "Does the kidneys look abnormal?"
+  },
+  {
+   "id": "i018",
+   "image": "images/i018.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i019",
+   "image": "images/i019.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i020",
+   "image": "images/i020.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i021",
+   "image": "images/i021.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i022",
+   "image": "images/i022.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i023",
+   "image": "images/i023.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i024",
+   "image": "images/i024.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i025",
+   "image": "images/i025.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i026",
+   "image": "images/i026.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i027",
+   "image": "images/i027.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i028",
+   "image": "images/i028.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i029",
+   "image": "images/i029.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i030",
+   "image": "images/i030.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i031",
+   "image": "images/i031.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i032",
+   "image": "images/i032.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i033",
+   "image": "images/i033.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i034",
+   "image": "images/i034.png",
+   "question": "Does the brain look abnormal?"
+  },
+  {
+   "id": "i035",
+   "image": "images/i035.png",
+   "question": "Is there consolidation in this chest X-ray?"
+  },
+  {
+   "id": "i036",
+   "image": "images/i036.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i037",
+   "image": "images/i037.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i038",
+   "image": "images/i038.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i039",
+   "image": "images/i039.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i040",
+   "image": "images/i040.png",
+   "question": "Is there a mass in this chest X-ray?"
+  },
+  {
+   "id": "i041",
+   "image": "images/i041.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i042",
+   "image": "images/i042.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i043",
+   "image": "images/i043.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i044",
+   "image": "images/i044.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i045",
+   "image": "images/i045.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i046",
+   "image": "images/i046.png",
+   "question": "Is there a rib fracture in this chest X-ray?"
+  },
+  {
+   "id": "i047",
+   "image": "images/i047.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i048",
+   "image": "images/i048.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i049",
+   "image": "images/i049.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i050",
+   "image": "images/i050.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i051",
+   "image": "images/i051.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i052",
+   "image": "images/i052.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i053",
+   "image": "images/i053.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i054",
+   "image": "images/i054.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i055",
+   "image": "images/i055.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i056",
+   "image": "images/i056.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i057",
+   "image": "images/i057.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i058",
+   "image": "images/i058.png",
+   "question": "Is there an abnormality in this brain MRI slice?"
+  },
+  {
+   "id": "i059",
+   "image": "images/i059.png",
+   "question": "Are there abnormalities in this image?"
+  },
+  {
+   "id": "i060",
+   "image": "images/i060.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i061",
+   "image": "images/i061.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i062",
+   "image": "images/i062.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i063",
+   "image": "images/i063.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i064",
+   "image": "images/i064.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i065",
+   "image": "images/i065.png",
+   "question": "Is there a pleural effusion in this chest X-ray?"
+  },
+  {
+   "id": "i066",
+   "image": "images/i066.png",
+   "question": "Is there consolidation in this chest X-ray?"
+  },
+  {
+   "id": "i067",
+   "image": "images/i067.png",
+   "question": "Is there consolidation in this chest X-ray?"
+  },
+  {
+   "id": "i068",
+   "image": "images/i068.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i069",
+   "image": "images/i069.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i070",
+   "image": "images/i070.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i071",
+   "image": "images/i071.png",
+   "question": "Is there a rib fracture in this chest X-ray?"
+  },
+  {
+   "id": "i072",
+   "image": "images/i072.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i073",
+   "image": "images/i073.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i074",
+   "image": "images/i074.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i075",
+   "image": "images/i075.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i076",
+   "image": "images/i076.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i077",
+   "image": "images/i077.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i078",
+   "image": "images/i078.png",
+   "question": "Is there an abnormality in this brain MRI slice?"
+  },
+  {
+   "id": "i079",
+   "image": "images/i079.png",
+   "question": "Is there a pleural effusion in this chest X-ray?"
+  },
+  {
+   "id": "i080",
+   "image": "images/i080.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i081",
+   "image": "images/i081.png",
+   "question": "Is there pleural thickening in this chest X-ray?"
+  },
+  {
+   "id": "i082",
+   "image": "images/i082.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i083",
+   "image": "images/i083.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i084",
+   "image": "images/i084.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i085",
+   "image": "images/i085.png",
+   "question": "Is there a tumor in this brain MRI slice?"
+  },
+  {
+   "id": "i086",
+   "image": "images/i086.png",
+   "question": "Is there an abnormality in this brain MRI slice?"
+  },
+  {
+   "id": "i087",
+   "image": "images/i087.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i088",
+   "image": "images/i088.png",
+   "question": "Does spleen look abnormal?"
+  },
+  {
+   "id": "i089",
+   "image": "images/i089.png",
+   "question": "Is there a lesion in this breast ultrasound image?"
+  },
+  {
+   "id": "i090",
+   "image": "images/i090.png",
+   "question": "Is there a breast mass in this ultrasound image?"
+  },
+  {
+   "id": "i091",
+   "image": "images/i091.png",
+   "question": "Is there an abnormality in this colonoscopy image?"
+  },
+  {
+   "id": "i092",
+   "image": "images/i092.png",
+   "question": "Is there a polyp in this image?"
+  },
+  {
+   "id": "i093",
+   "image": "images/i093.png",
+   "question": "Is there an abnormality in this chest X-ray?"
+  },
+  {
+   "id": "i094",
+   "image": "images/i094.png",
+   "question": "Is there an abnormality in this brain MRI slice?"
+  },
+  {
+   "id": "i095",
+   "image": "images/i095.png",
+   "question": "Is there an abnormality in this brain MRI slice?"
+  }
+ ]
+}
